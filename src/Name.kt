@@ -6,9 +6,9 @@ fun main() {
     println("please input your number")
     var number = `in`.nextInt()
     if (number % 2 == 0) {
-        println("the number is even")
+        println("$number is even")
     } else {
-        println("the number is odd")
+        println("$number is odd")
     }
     main()
 }
