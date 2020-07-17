@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dfab9e5-fcba-460d-9022-9227f948c849" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Even.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Even/META-INF/Even.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Even/NameKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Name.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eo70pIcmMAOVlvhrjgWKcrzmVH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NameKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Even" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="NameKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.NameKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dfab9e5-fcba-460d-9022-9227f948c849" name="Default Changelist" comment="" />
+      <created>1594975871574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594975871574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="37" key="#Project_Structure" timestamp="1594975912839">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="232" y="37" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1594975912839" />
+    <state x="408" y="182" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594975960201">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="408" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760@0.0.1280.760" timestamp="1594975960201" />
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1594977352922">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1594977352922" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1594977352922">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1594977352922" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1594977352922">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1594977352922" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1594977352922">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1594977352922" />
+    <state x="335" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1594979258617">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="335" y="202" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1594979258617" />
+  </component>
+</project>
