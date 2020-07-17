@@ -1,6 +1,6 @@
 import java.util.*
 
-//developed by juma paul
+//developed by paul juma
 fun main() {
     val `in` = Scanner(System.`in`)
     println("please input your number")
